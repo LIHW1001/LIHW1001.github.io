@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>我的句子小站</title>
+    <style>
+        *{margin:0;padding:0;box-sizing:border-box;font-family:system-ui}
+        body{background:linear-gradient(135deg,#f6e8e8,#e8f0f7);color:#333;padding:40px 20px;max-width:720px;margin:0 auto;min-height:100vh}
+        h1{text-align:center;margin-bottom:40px;color:#2c3e50;font-weight:500;letter-spacing:2px}
+        .item{background:rgba(255,255,255,0.75);backdrop-filter:blur(8px);padding:26px;border-radius:18px;margin-bottom:22px;box-shadow:0 4px 12px rgba(0,0,0,0.06)}
+        p{line-height:1.9;font-size:16px;color:#444}
+    </style>
+</head>
+<body>
+    <h1>我的网站</h1>
+    <div class="item">
+        <p>哈哈哈哈</p>
+    </div>
+    <div class="item">
+        <p>不孬不孬</p>
+    </div>
+    <div class="item">
+        <p>管管管</p>
+    </div>
+</body>
+</html>
